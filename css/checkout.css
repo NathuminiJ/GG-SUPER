@@ -44,6 +44,7 @@ section {
 
 #order-table th, 
 #order-table td {
+    color: black;
     padding: 10px;
     text-align: left;
     border: solid 3px rgb(47, 198, 47);
